@@ -112,6 +112,60 @@ Ferramentas 🛠
 - [Futura](https://www.youtube.com/c/CanalfuturaOrgBr)
 - [Aprimoramente](https://aprimoramente.com/areas/gratuitos/online)
 - [Pré Enem](www.novienem.com.br)
+## 👨‍🏫 Estudos Gerais
+* [Alligator](http://alligator.io) - Aulas gratuitas do básico ao avançado
+* [AWS Training and Certification](https://aws.amazon.com/pt/training/) - Treinamento oficial da Amazon para o serviço AWS
+* [Casa do Código](https://www.casadocodigo.com.br/) - Livros sobre programação e tecnologias em geral
+* [Cisco NetAcad](https://www.netacad.com/pt-br) - Cursos de redes de computadores e programação
+* [CodeAcademy](https://www.codecademy.com/) - Academia digital de ensino sobre programação
+* [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados
+* [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS)
+* [Curso de React Básico](https://github.com/diogocezar/dctb-react-course) - Aprenda React criando um sistema que exibe todos os repositórios de um usuário ou empresa no GitHub
+* [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes
+* [Deep Learning Book](http://deeplearningbook.com.br) - Livro digital gratuito sobre aprendizado em deep learning
+* [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos
+* [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo
+* [Eloquent Javascript](https://braziljs.github.io/eloquente-javascript/) - Livro grátis sobre Javascript, programação e maravilhas digitais
+* [Erick Wendel](https://cursos.erickwendel.com.br/) - Cursos de Nodejs Gratuito com certificado
+* [Exercism](https://exercism.io/) - Pratique seus conhecimentos em programação
+* [Explain Shell](https://explainshell.com/) - Digite um comando e descubra sua função
+* [Facebook Business](https://pt-br.facebook.com/business/learn/courses) - Cursos de marketing oficiais do Facebook
+* [Flexbox Defense](http://www.flexboxdefense.com/) - Aprenda flexbox com um game
+* [Flexbox Froggy](http://flexboxfroggy.com/) - Ferramenta online para estudos de Flexbox (CSS)
+* [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
+* [Free Tech Books](https://www.freetechbooks.com) - Livros e ebooks grátis sobre tecnologia
+* [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos
+* [git - comandos](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Lista de comandos Git
+* [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Apenas um guia prático para começar com Git
+* [GitHub Learning Lab](https://lab.github.com/courses) - Plataforma de estudos do GitHub
+* [GoalKicker](https://goalkicker.com/) - Livros de programação gratuitos
+* [Grid Malven](http://grid.malven.co/) - Documentação interessante sobre Grid (CSS)
+* [Grupo de Estudos CS50](https://comunidade.codigopratodos.com/t/grupo-de-estudos-gratuito-cpt-harvard-cs50/218) - Grupo de Estudos Brasileiro da Cadeira CS50 da Harvard, tutorial de tradução das aulas, lives com as resoluções dos exercícios e estudos dos temas abordados no curso
+* [Hackr.io](https://hackr.io/) - Documentações e cursos de inúmeras linguagens, frameworks e ferramentas.
+* [IME-USP](https://www.ime.usp.br/~pf/analise_de_algoritmos/index.html) - Materiais sobre análise de algoritmos do IME-USP
+* [JS: A forma certa](http://jstherightway.org/pt-br/) - Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas
+* [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
+* [Macorrati](http://www.macoratti.net/Default.aspx) - Tutoriais e cursos sobre desenvolvimento em .NET
+* [Microsoft Learning](https://www.microsoft.com/pt-br/learning) - Cursos gratuitos e pagos oficiais da Microsoft
+* [Raspagem de dados para iniciante](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) - Tutorial sobre WebCrawling
+* [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado
+* [School of Net](https://www.schoolofnet.com/) - Escola Online de Tecnologia
+* [Scrimba](https://scrimba.com) - Aulas gratuitas do básico ao avançado reproduzidas em vídeo com opções de teste durante a aula
+* [Silent Teacher](http://silentteacher.toxicode.fr/) - Aprenda JavaScript com um game
+* [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
+* [StackOverflow](https://pt.stackoverflow.com/) - Maior portal de perguntas e respostas sobre tecnologia no mundo
+* [Testes/desafios para vagas de emprego em front-end](https://github.com/felipefialho/frontend-challenges) - Treine suas habilidades em front-end para desafios de vagas de emprego
+* [TIM Tec](https://cursos.timtec.com.br/) - Cursos de tecnologia gratuitos (parceria entre a TIM e o MEC)
+* [TreinaDev](https://www.treinadev.com.br/) - Programa gratuito de formação de devs da Campus Code
+* [TreinaWeb](https://www.treinaweb.com.br/) - Escola digital para desenvolvedores
+* [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com conteúdos mais quentes do mercado (IA, data science, cloud computing, etc)
+* [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos
+* [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares
+* [W3](https://www.w3schools.com/) - Conteúdos mais completos sobre HTML, CSS e JS
+* [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens
+* [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva
+* [WikiBooks](https://pt.wikibooks.org/wiki/Programar_em_C) - Livros, artigos e tutoriais gratuitos para iniciantes que desejam programar em C
+* [You Dont Know JS - Tradução PT-BR](https://github.com/cezaraugusto/You-Dont-Know-JS/) - Série de livros sobre Javascript traduzida para Português Brasileiro
 
 🎣 Outros
 - [Idiomas](https://pt.duolingo.com)
@@ -132,6 +186,26 @@ Ferramentas 🛠
   [Bemean - Node.js e Express.js](https://www.youtube.com/playlist?list=PL77JVjKTJT2hP_lxL88oDo2rJvOskpGfJ)
 - [Clojure](https://www.youtube.com/watch?v=SBtEou4qBzw)
 
+## 🔤 Mais sobre Linguagens de programação
+* [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
+* [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
+* [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
+* [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional executada na máquina virutal Erlang
+* [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
+* [Go](https://golang.org/) - A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos
+* [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
+* [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
+* [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ
+* [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
+* [PHP](https://www.php.net/) - A linguagem de programação dominante na web
+* [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot
+* [R](https://cran.r-project.org/) - Linguagem de programação com foco em matemática, estatística, ciência de dados e aprendizagem de máquina
+* [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
+* [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem para sistemas rápidos, concorrentes e seguros
+* [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
+* [Scala](https://www.scala-lang.org/) - Linguagem de programação moderna, multi-paradigma, concisa, elegante e com tipagem segura
+* [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica)    
+    
 ## Bibliotecas <a name="id_2"></a>
 
 Português
@@ -323,3 +397,57 @@ Inglês
 - [YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
 - [123 Apps](https://123apps.com/pt/) - Converter e editar vídeos, documentos, áudios 
 - [Audio Library](https://www.youtube.com/channel/UCZVzgqp-fRUgyvRAmlm9IxA) - Musicas e efeitos sem copyright
+
+## 🎥 Canais no YouTube
+* [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia
+* [Android Developers](https://www.youtube.com/user/androiddevelopers) - Canal oficial da comunidade de desenvolvedores do Android
+* [BrazilJS](https://www.youtube.com/user/BrazilJS) - Canal do maior evento de JavaScript da América Latina
+* [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) - Canal com aulas e cursos gratuitos sobre diversas tecnlogias
+* [CodeShow](https://www.youtube.com/CodeShowBR) - Canal sobre Python e Rust
+* [CodigoPraTodos](https://www.youtube.com/channel/UClFE1N_sMek7cyvwsAK_XJQ) - Canal com lives de resolução de exercícios do CS50 e mais dicas de programação
+* [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end, etc
+* [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) - Canal de cursos de tecnologia gratuitos
+* [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação
+* [Daniel Donda](https://www.youtube.com/c/DanielDonda) - Canal sobre administração de redes, carreiras e certificação, hacking, segurança da informação
+* [Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Canal sobre tecnologia e comunidade de desenvolvedores
+* [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil
+* [Diolinux](https://www.youtube.com/user/diolinux) - Canal sobre o mundo Unix e outras tecnologias
+* [EspecializaTI](https://www.youtube.com/user/especializati) - Cursos gratuitos sobre PHP, Laravel, Linux e HTML+CSS
+* [Fabio Akita](https://www.youtube.com/user/AkitaOnRails) - Canal sobre tecnologia e desenvolvimento
+* [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) - Canal oficial da comunidade de desenvolvedores do Facebook
+* [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Desenvolvedor da Pagar.me e criador de robôs com inteligencia artificial
+* [Felipe Elia](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ) - Canal sobre programação para Web com foco em WordPress
+* [Filho da nuvem](https://www.youtube.com/Filhodanuvem) - Canal sobre desenvolvimento de testes automatizados, GitHub, PHP, Golang e outras linguagens
+* [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Canal sobre desenvolvimento de interface com Flutter
+* [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação
+* [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking
+* [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google
+* [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências
+* [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Programador brasileiro com atual residência no Canadá
+* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado
+* [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Canal sobre desenvolvimento web com foco em JavaScript
+* [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Canal raíz sobre tecnologia do YouTube
+* [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - Canal sobre lógica por trás do desenvolvimento de inteligências artificiais
+
+## 🎙 Podcasts
+* [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu
+* [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/) - Podcast com brasileiros que vivem e trabalham no exterior
+* [Codigo Aberto](https://www.b9.com.br/shows/codigoaberto/) - Conversas com os profissionais mais influentes do mercado sobre o futuro
+* [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral
+* [DioCast](https://castbox.fm/app/castbox/player/id1323408) - Tecnologia geral do canal DioLinux
+* [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) - Podcast da Rocketseat sobre desenvolvimento
+* [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/) - Ciência, pseudociências e tudo o mais, feito pelo IFUFGRS
+* [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral
+* [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação
+* [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral
+* [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I
+* [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
+* [Pizza de dados](https://pizzadedados.com/) -  Ciência de dados e conselhos de carreira
+* [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
+* [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
+* [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
+## 🏢 Business
+* [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
+* [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
+* [Impulso](https://impulso.network/) - Uma rede gratuita para impulsionar o seu crescimento profissional
+* [Rocket.Chat](https://rocket.chat/) - Chat corporativo open-source e gratuito para equipes    
