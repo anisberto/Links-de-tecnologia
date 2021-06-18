@@ -8,12 +8,9 @@
 </h4>
 
 <p align="center">
-  <a href="https://github.com/nerd0000">
-    <img alt="Feito por Alan" src="https://img.shields.io/badge/made%20by-Alan-8743CC">
-  </a>
-  <img alt="Último Commit" src="https://img.shields.io/github/last-commit/Nerd0000/Links-de-Estudo">
-  <img alt="Contribuidores" src="https://img.shields.io/github/contributors/Nerd0000/Links-de-Estudo">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Links-de-Estudo.svg">
+  <a href="https://github.com/anisberto">
+    <img alt="Anisberto Reis" src="https://img.shields.io/badge/Anisberto Reis-DEV-blue">
+  <img alt="Issues" src="https://img.shields.io/github/issues/anisberto/Links-de-tecnologia">
 </p>
 
 ## ⌚ Índice
